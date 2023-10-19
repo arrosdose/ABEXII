@@ -1,6 +1,6 @@
 # ABEXII
 
-Disciplina de ABEX 2, Projeto Copiloto
+Disciplina de ABEX 2, Projeto Copiloto.
 
 #DESCRIÇÃO
 

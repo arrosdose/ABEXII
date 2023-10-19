@@ -2,6 +2,10 @@
 
 Disciplina de ABEX 2, Projeto Copiloto.
 
-# DESCRIÇÃO
+## DESCRIÇÃO
 
 Informações relacionadas ao Projeto Copiloto, software para a disciplina ABEX 2.
+
+### Integrantes do projeto:
+
+

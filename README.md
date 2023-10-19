@@ -8,7 +8,8 @@ Informações relacionadas ao Projeto Copiloto, software para a disciplina ABEX 
 
 ### Integrantes do projeto:
 Igor Zanatta Palliga
-Murylo Teixeira Zanatta
+Murylo Augusto Teixeira
 Gabriel Bregalda
+Gustavo Alves
 
 

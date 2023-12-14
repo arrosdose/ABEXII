@@ -11,5 +11,6 @@ Igor Zanatta Palliga,
 Murylo Augusto Teixeira,
 Gabriel Bregalda,
 Gustavo Alves.
+Diogo Felipe Alves Brugnerotto.
 
 
